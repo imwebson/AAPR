@@ -7,16 +7,9 @@ If you use this code for your research, please cite the paper this code is based
 
 ```
 @ARTICLE{2018arXiv180503977Y,
-   author = {{Yang}, P. and {Sun}, X. and {Li}, W. and {Ma}, S.},
+   author = {Pengcheng Yang and Xu Sun and Wei Li and Shuming Ma},
     title = "{Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network}",
   journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1805.03977},
- primaryClass = "cs.CL",
- keywords = {Computer Science - Computation and Language},
-     year = 2018,
-    month = may,
-   adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180503977Y},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+     year = {2018}
 }
 ```
